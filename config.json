@@ -1,0 +1,13 @@
+    {
+      "inbounds": [{
+        "port": 8080,
+        "protocol": "vless",
+        "settings": {
+          "clients": [{"id": "انسخ-uuid-هنا", "level": 0}]
+        },
+        "streamSettings": {
+          "network": "ws",
+          "wsSettings": {"path": "/mhhw"}
+        }
+      }]
+    }
