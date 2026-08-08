@@ -3,7 +3,7 @@
         "port": 8080,
         "protocol": "vless",
         "settings": {
-          "clients": [{"id": "انسخ-uuid-هنا", "level": 0}]
+          "clients": [{"id": "c91c7477-1ac3-4296-bc7e-faf94c2a807d", "level": 0}]
         },
         "streamSettings": {
           "network": "ws",
